@@ -1,0 +1,12 @@
+# secrets: never commit keys
+.env
+.env.*
+*.local
+# Vercel and Node
+.vercel/
+node_modules/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

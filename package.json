@@ -1,0 +1,7 @@
+{
+  "name": "et617-endsem-25m1030",
+  "private": true,
+  "description": "Loop Buddy: adaptive 10-minute tutor for Python for loops (ET 617 | 25M1030)",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
